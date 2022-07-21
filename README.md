@@ -3,8 +3,8 @@
 ![stats1](https://github-readme-stats.vercel.app/api?username=kevenson1103&theme=tokyonight)
 
 <a href="https://github.com/jstrieb/github-stats">
-<img src="https://github.com/kevenson1103/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/kevenson1103/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/kevenson1103/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only?token=GHSAT0AAAAAABQZGSSZKDUOJBQHCJ3F3KQIYWYY5CA" />
+<img src="https://github.com/kevenson1103/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only?token=GHSAT0AAAAAABQZGSSYU5OZ3AHJOPDKTVCOYWYY5XQ" />
 </a>
 
 ![stats2](https://raw.githubusercontent.com/kevenson1103/myghstats/master/generated/overview.svg?token=GHSAT0AAAAAABQZGSSZKDUOJBQHCJ3F3KQIYWYY5CA)

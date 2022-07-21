@@ -5,6 +5,15 @@
 - [CatBot](https://github.com/kevenson1103/catbot) : Discord.js bot made for anything cat related
 - [StockStats](https://github.com/kevenson1103/StockStats) : Discord.js bot made for monitoring certain stocks
 
+## language(s), librarie(s), and runtime enviornment(s) i use
+
+![Javascript](https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript)
+![Shell](https://img.shields.io/badge/shell-323330?style=for-the-badge&logo=Shell)
+![Python](https://img.shields.io/badge/python-323330?style=for-the-badge&logo=Python)
+![NODE.JS](https://img.shields.io/badge/NODE-JS-darkgreen?style=for-the-badge&logo=node.js)
+![DISCORD.JS](https://img.shields.io/badge/discord-js-informational?style=for-the-badge&logo=discord)
+
+
 ## my github stats
 
 <a href="https://github.com/kevenson1103/myghstats">

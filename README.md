@@ -1,7 +1,7 @@
 ### ill update this eventually lol
 
 ![stats](https://raw.githubusercontent.com/kevenson1103/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![stats](https://raw.githubusercontent.com/kevenson1103/myghstats/master/generated/overview.svg)
+![stats](https://raw.githubusercontent.com/kevenson1103/myghstats/master/generated/overview.svg#gh=dark-mode-only)
 ![stats](https://raw.githubusercontent.com/kevenson1103/myghstats/master/generated/languages.svg)
 
 <!--

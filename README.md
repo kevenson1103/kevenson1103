@@ -1,6 +1,6 @@
 ### ill update this eventually lol
 
-![stats](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![stats](https://github-readme-stats.vercel.app/api?username=kevenson1103&theme=tokyonight)
 
 <!--
 **kevenson1103/kevenson1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

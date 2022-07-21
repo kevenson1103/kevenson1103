@@ -1,6 +1,11 @@
-### ill update this eventually lol
+## current projects
 
-![stats1](https://github-readme-stats.vercel.app/api?username=kevenson1103&theme=tokyonight)
+- 5b5bot (private repo) : Mineflayer.js and Discord.js bot made for 5b5t.org
+- [5b5t Archive Bot](https://github.com/kevenson1103/5bArchiveBot) : Discord.js bot made for the 5b5t Archive
+- [CatBot](https://github.com/kevenson1103/catbot) : Discord.js bot made for anything cat related
+- [StockStats](https://github.com/kevenson1103/StockStats) : Discord.js bot made for monitoring certain stocks
+
+## my github stats
 
 <a href="https://github.com/kevenson1103/myghstats">
 <img src="https://github.com/kevenson1103/myghstats/blob/master/generated/overview.svg#gh-dark-mode-only" />

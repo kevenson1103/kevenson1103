@@ -1,6 +1,5 @@
 ### ill update this eventually lol
 
-![stats](https://github-readme-stats.vercel.app/api?username=kevenson1103&theme=tokyonight)
 ![stats](https://raw.githubusercontent.com/kevenson1103/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 <!--
@@ -16,4 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![stats](https://github-readme-stats.vercel.app/api?username=kevenson1103&theme=tokyonight)
+
 -->

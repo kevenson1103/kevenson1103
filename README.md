@@ -7,9 +7,6 @@
 <img src="https://github.com/kevenson1103/myghstats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
 
-![stats2](https://raw.githubusercontent.com/kevenson1103/myghstats/master/generated/overview.svg?token=GHSAT0AAAAAABQZGSSZKDUOJBQHCJ3F3KQIYWYY5CA)
-![stats3](https://raw.githubusercontent.com/kevenson1103/myghstats/master/generated/languages.svg?token=GHSAT0AAAAAABQZGSSYU5OZ3AHJOPDKTVCOYWYY5XQ)
-
 <!--
 **kevenson1103/kevenson1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

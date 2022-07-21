@@ -1,9 +1,9 @@
 ### ill update this eventually lol
 
-![stats](https://github-readme-stats.vercel.app/api?username=kevenson1103&theme=tokyonight)
+![stats1](https://github-readme-stats.vercel.app/api?username=kevenson1103&theme=tokyonight)
 
-![stats](https://raw.githubusercontent.com/kevenson1103/myghstats/master/generated/overview.svg?token=GHSAT0AAAAAABQZGSSZKDUOJBQHCJ3F3KQIYWYY5CA)
-![stats](https://raw.githubusercontent.com/kevenson1103/myghstats/master/generated/languages.svg?token=GHSAT0AAAAAABQZGSSYJLNKLATS2VSXSQT2YWYYYIQ)
+![stats2](https://raw.githubusercontent.com/kevenson1103/myghstats/master/generated/overview.svg?token=GHSAT0AAAAAABQZGSSZKDUOJBQHCJ3F3KQIYWYY5CA)
+![stats3](https://raw.githubusercontent.com/kevenson1103/myghstats/master/generated/languages.svg?token=GHSAT0AAAAAABQZGSSYU5OZ3AHJOPDKTVCOYWYY5XQ)
 
 <!--
 **kevenson1103/kevenson1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

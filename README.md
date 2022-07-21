@@ -1,6 +1,7 @@
 ### ill update this eventually lol
 
-![stats](https://raw.githubusercontent.com/kevenson1103/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![stats](https://github-readme-stats.vercel.app/api?username=kevenson1103&theme=tokyonight)
+
 ![stats](https://raw.githubusercontent.com/kevenson1103/myghstats/master/generated/overview.svg?token=GHSAT0AAAAAABQZGSSYROQ4B26JAOGTLOEYYWYYWIA)
 ![stats](https://raw.githubusercontent.com/kevenson1103/myghstats/master/generated/languages.svg?token=GHSAT0AAAAAABQZGSSYJLNKLATS2VSXSQT2YWYYYIQ)
 

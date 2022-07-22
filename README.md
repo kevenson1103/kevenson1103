@@ -5,7 +5,7 @@
 - [CatBot](https://github.com/kevenson1103/catbot) : Discord.js bot made for anything cat related
 - [StockStats](https://github.com/kevenson1103/StockStats) : Discord.js bot made for monitoring certain stocks
 
-## languages, libraries, and runtime enviornments i use
+## languages, libraries, and runtime environments i use
 
 ![Javascript](https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript)
 ![Shell](https://img.shields.io/badge/shell-323330?style=for-the-badge&logo=Shell)

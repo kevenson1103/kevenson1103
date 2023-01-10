@@ -1,9 +1,9 @@
 ## current projects
 
+- [CatBot](https://github.com/kevenson1103/catbot) : Discord.js bot made for anything cat related, my most current and active project, bot is verified.
 - 5b5bot (private repo) : Mineflayer.js and Discord.js bot made for 5b5t.org
 - HighwayHelper (private repo) : Discord.js bot made for HBC
 - [5b5t Archive Bot](https://github.com/kevenson1103/5bArchiveBot) : Discord.js bot made for the 5b5t Archive
-- [CatBot](https://github.com/kevenson1103/catbot) : Discord.js bot made for anything cat related
 - [StockStats](https://github.com/kevenson1103/StockStats) : Discord.js bot made for monitoring certain stocks
 
 ## languages, libraries, and runtime environments i use

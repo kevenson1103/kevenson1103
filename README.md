@@ -24,5 +24,6 @@
 
 
 ## contacts
-![discord](https://discord.c99.nl/widget/theme-5/312734500880646145.png)
+![discord](https://discord.c99.nl/widget/theme-4/312734500880646145.png)
+
 email: kevenson2b2t@gmail.com

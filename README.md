@@ -21,3 +21,8 @@
 <img src="https://github.com/kevenson1103/myghstats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/kevenson1103/myghstats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
+
+
+## contacts
+![discord](https://discord.c99.nl/widget/theme-5/312734500880646145.png)
+email: kevenson2b2t@gmail.com

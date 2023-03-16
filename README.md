@@ -4,7 +4,7 @@
 - 5b5bot (private repo) : Mineflayer.js and Discord.js bot made for 5b5t.org
 - HighwayHelper (private repo) : Discord.js bot made for HBC
 - [5b5t Archive Bot](https://github.com/kevenson1103/5bArchiveBot) : Discord.js bot made for the 5b5t Archive
-- [StockStats](https://github.com/kevenson1103/StockStats) : Discord.js bot made for monitoring certain stocks
+- [StockStats](https://github.com/kevenson1103/StockStats) : Discord.js bot made for monitoring certain stocks (this code is so ugly and bad oh my GOD)
 
 ## languages, libraries, and runtime environments i use
 
